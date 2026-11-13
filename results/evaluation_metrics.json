@@ -1,0 +1,152 @@
+{
+  "macro_average_spearman": 0.3191,
+  "languages": {
+    "gu": {
+      "language": "Gujarati",
+      "code": "gu",
+      "benchmark_file": "Gujarati-WS.txt",
+      "num_pairs_total": 163,
+      "num_pairs_scored": 163,
+      "embedding_shape": [
+        163,
+        2,
+        300
+      ],
+      "corpus_sentences": 5000,
+      "corpus_tokens": 203449,
+      "model_vocab_size": 41355,
+      "benchmark_unique_words": 221,
+      "benchmark_in_vocab_words": 198,
+      "benchmark_oov_words": 23,
+      "vocab_coverage_percent": 89.59,
+      "spearman_rho": 0.4424,
+      "p_value": 3.3702e-09
+    },
+    "hi": {
+      "language": "Hindi",
+      "code": "hi",
+      "benchmark_file": "Hindi-WS.txt",
+      "num_pairs_total": 235,
+      "num_pairs_scored": 235,
+      "embedding_shape": [
+        235,
+        2,
+        300
+      ],
+      "corpus_sentences": 5000,
+      "corpus_tokens": 284598,
+      "model_vocab_size": 27730,
+      "benchmark_unique_words": 318,
+      "benchmark_in_vocab_words": 278,
+      "benchmark_oov_words": 40,
+      "vocab_coverage_percent": 87.42,
+      "spearman_rho": 0.2979,
+      "p_value": 3.3406e-06
+    },
+    "mr": {
+      "language": "Marathi",
+      "code": "mr",
+      "benchmark_file": "Marathi-WS.txt",
+      "num_pairs_total": 253,
+      "num_pairs_scored": 104,
+      "embedding_shape": [
+        253,
+        2,
+        300
+      ],
+      "corpus_sentences": 5000,
+      "corpus_tokens": 206264,
+      "model_vocab_size": 47662,
+      "benchmark_unique_words": 337,
+      "benchmark_in_vocab_words": 269,
+      "benchmark_oov_words": 68,
+      "vocab_coverage_percent": 79.82,
+      "spearman_rho": 0.2427,
+      "p_value": 0.013049
+    },
+    "pa": {
+      "language": "Punjabi",
+      "code": "pa",
+      "benchmark_file": "Punjabi-WS.txt",
+      "num_pairs_total": 143,
+      "num_pairs_scored": 143,
+      "embedding_shape": [
+        143,
+        2,
+        300
+      ],
+      "corpus_sentences": 5000,
+      "corpus_tokens": 272700,
+      "model_vocab_size": 29551,
+      "benchmark_unique_words": 206,
+      "benchmark_in_vocab_words": 184,
+      "benchmark_oov_words": 22,
+      "vocab_coverage_percent": 89.32,
+      "spearman_rho": 0.3892,
+      "p_value": 1.558e-06
+    },
+    "ta": {
+      "language": "Tamil",
+      "code": "ta",
+      "benchmark_file": "Tamil-WS.txt",
+      "num_pairs_total": 97,
+      "num_pairs_scored": 97,
+      "embedding_shape": [
+        97,
+        2,
+        300
+      ],
+      "corpus_sentences": 5000,
+      "corpus_tokens": 168026,
+      "model_vocab_size": 58269,
+      "benchmark_unique_words": 136,
+      "benchmark_in_vocab_words": 101,
+      "benchmark_oov_words": 35,
+      "vocab_coverage_percent": 74.26,
+      "spearman_rho": 0.252,
+      "p_value": 0.01276
+    },
+    "te": {
+      "language": "Telugu",
+      "code": "te",
+      "benchmark_file": "Telugu-WS.txt",
+      "num_pairs_total": 111,
+      "num_pairs_scored": 111,
+      "embedding_shape": [
+        111,
+        2,
+        300
+      ],
+      "corpus_sentences": 5000,
+      "corpus_tokens": 172252,
+      "model_vocab_size": 49917,
+      "benchmark_unique_words": 160,
+      "benchmark_in_vocab_words": 114,
+      "benchmark_oov_words": 46,
+      "vocab_coverage_percent": 71.25,
+      "spearman_rho": 0.2843,
+      "p_value": 0.0024985
+    },
+    "ur": {
+      "language": "Urdu",
+      "code": "ur",
+      "benchmark_file": "Urdu-WS.txt",
+      "num_pairs_total": 100,
+      "num_pairs_scored": 100,
+      "embedding_shape": [
+        100,
+        2,
+        300
+      ],
+      "corpus_sentences": 5000,
+      "corpus_tokens": 362086,
+      "model_vocab_size": 38006,
+      "benchmark_unique_words": 146,
+      "benchmark_in_vocab_words": 120,
+      "benchmark_oov_words": 26,
+      "vocab_coverage_percent": 82.19,
+      "spearman_rho": 0.3251,
+      "p_value": 0.00096414
+    }
+  }
+}
