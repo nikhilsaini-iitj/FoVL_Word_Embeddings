@@ -148,6 +148,14 @@ FoVL_Word_Embeddings/
 │   ├── gu_vocab.json, hi_vocab.json, mr_vocab.json
 │   ├── pa_vocab.json, ta_vocab.json, te_vocab.json, ur_vocab.json
 │   └── vocab_mapping.json                   # Unified 7-language vocabulary map
+├── models/                                  # Trained FastText models (instant offline inference)
+│   ├── gu_fasttext.model                    # Gujarati FastText model
+│   ├── hi_fasttext.model                    # Hindi FastText model
+│   ├── mr_fasttext.model                    # Marathi FastText model
+│   ├── pa_fasttext.model                    # Punjabi FastText model
+│   ├── ta_fasttext.model                    # Tamil FastText model
+│   ├── te_fasttext.model                    # Telugu FastText model
+│   └── ur_fasttext.model                    # Urdu FastText model
 ├── figures/                                 # High-resolution experimental figures
 │   ├── tsne_all_languages.png               # 2D t-SNE manifold projections
 │   └── spearman_ablation_comparison.png     # Model ablation comparison chart

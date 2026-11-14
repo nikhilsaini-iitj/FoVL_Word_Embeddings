@@ -44,3 +44,4 @@ venv.bak/
 .AppleDouble
 .LSOverride
 ._*
+models/
